@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
-<h1 align="center">Hi 👋, I'm Khalid</h1>
+<h1 align="center mx-autu">Hi 👋, I'm Khalid</h1>
 <h3 align="center">Fontain Web Doveloper</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-saifullaha&" alt="khalid-saifullaha" /></p>
