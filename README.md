@@ -1,10 +1,12 @@
 ![banner](https://github.com/user-attachments/assets/8a970bd1-1360-40eb-9b81-7a4dff2e9554)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
+
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">Fontain Web Doveloper</h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-saifullaha&" alt="khalid-saifullaha" /></p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid-saifullaha" alt="khalid-saifullaha" /></a> </p>
 
