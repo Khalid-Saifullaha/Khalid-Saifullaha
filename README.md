@@ -4,7 +4,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-saifullaha&" alt="khalid-saifullaha" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid-saifullaha" alt="khalid-saifullaha" /></a> </p>
 
@@ -32,6 +32,6 @@
 
 ![wave](https://github.com/user-attachments/assets/4af8b150-c3aa-4b54-8a52-710ccbbd61f6)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-saifullaha&show_icons=true&locale=en&layout=compact" alt="khalid-saifullaha" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalid-saifullaha&show_icons=true&locale=en&layout=compact" alt="khalid-saifullaha" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khalid-saifullaha&show_icons=true&locale=en" alt="khalid-saifullaha" /></p>
+
