@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Khalid</h1>
 <h3 align="center">Fontain Web Doveloper</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-saifullaha&" alt="khalid-saifullaha" /></p>
+<p align="center" ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=khalid-saifullaha&" alt="khalid-saifullaha" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khalid-saifullaha" alt="khalid-saifullaha" /></a> </p>
 
