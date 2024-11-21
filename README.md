@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 <div align="center">
  <div  style="display: flex; justify-content: center; gap: 20px; >
-   ![](https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Khalid-Saifullaha&theme=tokyonight&hide_border=false)<br/>
  </div>
