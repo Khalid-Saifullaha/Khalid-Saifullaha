@@ -1,6 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/8a970bd1-1360-40eb-9b81-7a4dff2e9554)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
 # 💫 About Me:
 - 🌱 I’m currently learning **Node js**<br><br>- 💬 Ask me about **react**<br><br>- 📫 How to reach me **khalidsaifullaha3@gmail.com**<br><br>- ⚡ Fun fact **I think I am funny**<br>
