@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/8a970bd1-1360-40eb-9b81-7a4dff2e9554)
+
+![Colorful Pastel Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/78c5df02-0e97-48ad-b383-1a64676ff85a)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
