@@ -30,10 +30,8 @@
     <img src="https://streak-stats.demolab.com?user=Khalid-Saifullah&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 
-  <br /><br />
-
-  <h3>🚀 Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullah&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
   
 </div>
 
