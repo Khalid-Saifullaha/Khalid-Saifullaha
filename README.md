@@ -7,7 +7,12 @@
 
 ###
 
+<!-- about -->
 # 💫 About Me:
+
+<!-- Any image aligned to the right. Beware the width -->
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🌱 I’m currently learning **Node js**<br><br>- 💬 Ask me about **react**<br><br>- 📫 How to reach me **khalidsaifullaha3@gmail.com**<br><br>- ⚡ Fun fact **I think I am funny**<br>
 
 
