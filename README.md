@@ -24,7 +24,8 @@
 # 📊 GitHub Stats:
 <div align="center">
  <div  style="display: flex; justify-content: center; gap: 20px; >
-   <img src="https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Khalid-Saifullaha)](https://git.io/streak-stats)
   
   ![](https://github-readme-streak-stats.herokuapp.com/?user=Khalid-Saifullaha&theme=tokyonight&hide_border=false)<br/>
  </div>
