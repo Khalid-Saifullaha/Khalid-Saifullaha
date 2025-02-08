@@ -30,7 +30,7 @@
   
   <h3>🔥 GitHub Streak</h3>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Khalid-Saifullah&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=khalid-saifullaha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   </a>
 
   <br />
