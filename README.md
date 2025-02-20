@@ -29,12 +29,13 @@
 <div align="center">
   
   <h3>🔥 GitHub Streak</h3>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=khalid-saifullaha&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+  <a href="https://github.com/Khalid-Saifullaha">
+    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Khalid-Saifullaha&card_width=782&theme=radical" alt="Khalid-Saifullaha" />
+</a>
 
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+ 
   
 </div>
 
