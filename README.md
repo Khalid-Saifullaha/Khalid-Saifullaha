@@ -34,8 +34,13 @@
 </a>
 
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullaha&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
  
+ <a href="https://github.com/Khalid-Saifullaha">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&theme=radical" />
+</a>
+<a href="https://github.com/Khalid-Saifullaha">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khalid-Saifullaha&layout=compact&langs_count=8&card_width=320&theme=radical" />
+</a>
   
 </div>
 
