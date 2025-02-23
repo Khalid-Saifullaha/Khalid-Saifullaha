@@ -1,5 +1,7 @@
 
-![Blue Orange Modern Linkedin Article Cover Image (6)](https://github.com/user-attachments/assets/236a6e64-f718-4390-b278-254cf68ef3b8)
+
+![Blue Orange Modern Linkedin Article Cover Image (8)](https://github.com/user-attachments/assets/96c4d90b-a254-4371-9043-39b9e1d896e5)
+
 
 
 
