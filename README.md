@@ -1,5 +1,8 @@
 
-![Colorful Pastel Modern Personal LinkedIn Banner (1)](https://github.com/user-attachments/assets/78c5df02-0e97-48ad-b383-1a64676ff85a)
+![Blue Orange Modern Linkedin Article Cover Image (6)](https://github.com/user-attachments/assets/236a6e64-f718-4390-b278-254cf68ef3b8)
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
