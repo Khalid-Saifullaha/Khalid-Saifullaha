@@ -35,9 +35,12 @@
 <div align="center">
   
   <h3>🔥 GitHub Streak</h3>
-  <a href="https://github.com/Khalid-Saifullaha">
-    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Khalid-Saifullaha&card_width=782&theme=radical" alt="Khalid-Saifullaha" />
+<a href="https://github.com/Khalid-Saifullaha">
+    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Khalid-Saifullaha&card_width=782&theme=github-dark-blue&border=00000000" alt="Khalid-Saifullaha" />
 </a>
+
+
+
 
   <br />
  
