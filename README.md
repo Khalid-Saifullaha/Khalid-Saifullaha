@@ -9,9 +9,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khalid-saifullaha&label=Profile%20views&color=0e75b6&style=flat" alt="khalid-saifullaha" /> </p>
 
-<h1 align="left">Khalid Saifullaha</h1>
+
 
 ###
+
+<p align="center">
+    <samp>
+      <b>Welcome</b>
+      <br />
+      I'm Khalid Saifullaha, a  
+      Front-end developer.
+      <br />
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Iosevka&size=16&pause=1000&color=9D7CD8&center=true&vCenter=true&width=435&lines=I+code+efficient+and+elegant+programs"
+        alt="Typing SVG"
+      />
+    </samp>
+  </p>
 
 <!-- about -->
 # 💫 About Me:
