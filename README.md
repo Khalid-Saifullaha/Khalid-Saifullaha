@@ -1,7 +1,6 @@
 
 
-![White Minimalist Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/03113ec2-2452-4c53-a071-747662eb3494)
-
+![Blue Modern Corporate Staff Profile LinkedIn Banner (9)](https://github.com/user-attachments/assets/83103714-de18-4c14-a00a-7cd95491d04d)
 
 
 
