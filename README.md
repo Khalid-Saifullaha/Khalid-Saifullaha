@@ -1,7 +1,8 @@
 
 
+![White Minimalist Profile LinkedIn Banner (2)](https://github.com/user-attachments/assets/03113ec2-2452-4c53-a071-747662eb3494)
 
-![Blue Orange Modern Linkedin Article Cover Image (10)](https://github.com/user-attachments/assets/1c8d25ef-85fe-470f-a9a4-797e19f3a137)
+
 
 
 
