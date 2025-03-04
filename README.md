@@ -41,9 +41,73 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-saifullaha) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/khalid112288)
 
 # 💻 Tech Stack:
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nextjs,nodejs,express,mongodb,html,css,firebase,vscode,git" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" height="60" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="60" height="60" />
+      <br>Tailwind 
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" height="60" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="60" height="60" />
+      <br>Express.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
+      <br>MongoDB
+    </td>
+   
+  </tr>
+  <tr>
+       <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="60" height="60" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="60" height="60" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="60" height="60" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="60" height="60" />
+      <br>Vercel
+    </td>
+  </tr>
+</table>
+
+
+
+
 
 # 📊 GitHub Stats:
 
