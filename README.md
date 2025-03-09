@@ -115,7 +115,7 @@
   
   <h3>🔥 GitHub Streak</h3>
 <a href="https://github.com/Khalid-Saifullaha">
-    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Khalid-Saifullaha&card_width=782&theme=github-dark-blue&border=00000000" alt="Khalid-Saifullaha" />
+    <img height=200 align="center" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Khalid-Saifullaha&card_width=782&theme=github-dark-blue&border=00000000&ring=7209b7&fire=9d4edd&sideNums=c77dff&sideLabels=d7a3ff&dates=a37fff" alt="Khalid-Saifullaha" />
 </a>
 
 
@@ -123,13 +123,34 @@
 
   <br />
  
+ <div style="max-width: 800px; margin: 0 auto;">
+      <table style="width: 100%; text-align: center;">
+        <tr>
+          <td style="width: 50%; padding: 15px; vertical-align: top;">
+            <a href="#github-stats">
+              <img
+                alt="GitHub Stats"
+                src="https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&custom_title=Code%20Stats&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
+                style="border-radius: 10px; border: 1px solid #00f5d4;"
+              />
+            </a>
+          </td>
+          <td style="width: 50%; padding: 15px; vertical-align: top;">
+            <a href="#top-languages">
+              <img
+                alt="Top Languages"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullaha&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=0d1b2a&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
+                style="border-radius: 10px; border: 1px solid #00f5d4;"
+              />
+            </a>
+          </td>
+        </tr>
 
+</table>
+</div>
 
   
 </div>
-
-
-
 
 
 
