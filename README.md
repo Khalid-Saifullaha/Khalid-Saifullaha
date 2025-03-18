@@ -130,7 +130,7 @@
             <a href="#github-stats">
               <img
                 alt="GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&custom_title=Code%20Stats&bg_color=00000000&title_color=7209b7&icon_color=7209b7&text_color=e0fbfc&cache_seconds=86400"
+                src="https://github-readme-stats.vercel.app/api?username=Khalid-Saifullaha&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=radical&custom_title=Code%20Stats&bg_color=00000000&title_color=7209b7&icon_color=7209b7&text_color=E0E0E0&cache_seconds=86400"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
@@ -139,7 +139,7 @@
             <a href="#top-languages">
               <img
                 alt="Top Languages"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullaha&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=00000000&title_color=7209b7&icon_color=00f5d4&text_color=e0fbfc&cache_seconds=86400"
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalid-Saifullaha&langs_count=6&theme=radical&layout=compact&hide_border=true&custom_title=Language%20Mastery&bg_color=00000000&title_color=7209b7&icon_color=00f5d4&text_color=E0E0E0&cache_seconds=86400"
                 style="border-radius: 10px; border: 1px solid #00f5d4;"
               />
             </a>
