@@ -38,7 +38,7 @@
 
 🌱 I’m currently learning- TypeScript <br> <br> 💬 Ask me about **react**<br> <br> 🌐 Passionate about building user-friendly web apps
 
-🧠 Always eager to learn new technologies and improve<br> <br>- 📫 How to reach me **khalidsaifullaha3@gmail.com**<br><br>- ⚡ Fun fact **I think I am funny**<br>
+🧠 Always eager to learn new technologies and improve<br> <br> 📫 How to reach me **khalidsaifullaha3@gmail.com**<br><br>- ⚡ Fun fact **I think I am funny**<br>
 
 
 ## 🌐 Socials:
