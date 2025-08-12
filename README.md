@@ -30,15 +30,19 @@
 
 
 
-<!-- about -->
-# About Me:
+<!-- About -->
+# About Me
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- Image aligned to the right -->
+<img width="55%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🌱 I’m currently learning- TypeScript <br> <br> 💬 Ask me about **react**<br> <br> 🌐 Passionate about building user-friendly web apps
+💡 **Currently Learning:** Backend Development (Node.js, Express, MongoDB, Mongoose) & TypeScript  
+💬 **Ask Me About:** React  
+🌐 **Passionate About:** Creating user-friendly and visually appealing web applications  
 
-🧠 Always eager to learn new technologies and improve<br> <br> 📫 How to reach me **khalidsaifullaha3@gmail.com**<br>
+🚀 I’m an enthusiastic learner who enjoys exploring new technologies and continuously improving my skills.  
+📩 **Reach Me At:** [khalidsaifullaha3@gmail.com](mailto:khalidsaifullaha3@gmail.com)  
+
 
 
 ## 📬 Let's Connect
