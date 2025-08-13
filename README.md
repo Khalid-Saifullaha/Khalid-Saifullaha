@@ -36,7 +36,7 @@
 <!-- Image aligned to the right -->
 <img width="55%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-💡 **Currently Learning:** Backend Development (Node.js, Express, MongoDB, Mongoose) & TypeScript  
+💡 **Currently Learning:** Backend Development : Node.js, Express, MongoDB, Mongoose & TypeScript  
 💬 **Ask Me About:** React  
 🌐 **Passionate About:** Creating user-friendly and visually appealing web applications  
 
