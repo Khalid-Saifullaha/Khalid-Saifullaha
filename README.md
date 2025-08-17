@@ -31,17 +31,23 @@
 
 
 <!-- About -->
-# About Me
+# 👨‍💻 About Me
 
 <!-- Image aligned to the right -->
 <img width="55%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-💡 **Currently Learning:** Backend Development : Node.js, Express, MongoDB, Mongoose & TypeScript  
-💬 **Ask Me About:** React  
-🌐 **Passionate About:** Creating user-friendly and visually appealing web applications  
+🌱 **Currently Learning:** Backend Development — *Node.js, Express, MongoDB, Mongoose & TypeScript*  
 
-🚀 I’m an enthusiastic learner who enjoys exploring new technologies and continuously improving my skills.  
-📩 **Reach Me At:** [khalidsaifullaha3@gmail.com](mailto:khalidsaifullaha3@gmail.com)  
+⚛️ **Ask Me About:** React & Frontend Development  
+
+🎨 **Passionate About:** Building user-friendly, modern, and visually appealing web applications  
+
+🚀 I am an enthusiastic learner who loves exploring new technologies and turning ideas into real-world projects.  
+
+💡 Always curious, always improving — step by step toward becoming a professional Frontend Developer.  
+
+📫 **How to reach me:** [khalidsaifullaha3@gmail.com](mailto:khalidsaifullaha3@gmail.com)  
+ 
 
 
 
