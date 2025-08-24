@@ -36,11 +36,11 @@
 <!-- Image aligned to the right -->
 <img width="55%" align="right" alt="GitHub Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-🌱 **Currently Learning:** Backend Development — *Node.js, Express, MongoDB, Mongoose & TypeScript*  
+🌱 **Currently Learning:** Backend Development — *Node.js, Express, MongoDB, Mongoose & TypeScript*.
 
-⚛️ **Ask Me About:** React & Frontend Development  
+⚛️ **Ask Me About:** React & Frontend Development  .
 
-🎨 **Passionate About:** Building user-friendly, modern, and visually appealing web applications  
+🎨 **Passionate About:** Building user-friendly, modern, and visually appealing web applications.
 
 🚀 I am an enthusiastic learner who loves exploring new technologies and turning ideas into real-world projects.  
 
