@@ -62,12 +62,16 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" height="60" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" height="60" />
       <br>React
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="60" height="60" />
-      <br>Tailwind 
+      <br>Tailwind
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60" />
@@ -82,13 +86,24 @@
       <br>Express.js
     </td>
     <td align="center" width="96">
+      <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="60" height="60" />
+      <br>JWT
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="60" height="60" />
       <br>MongoDB
     </td>
-   
   </tr>
   <tr>
-       <td align="center" width="96">
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/7552965?s=200&v=4" alt="Mongoose" width="60" height="60" />
+      <br>Mongoose
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" height="60" />
+      <br>Postgres
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="60" height="60" />
       <br>HTML5
     </td>
@@ -118,6 +133,9 @@
     </td>
   </tr>
 </table>
+
+
+
 
 
 
