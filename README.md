@@ -18,7 +18,7 @@
   <samp style="font-size: 21px;"> 
     <b>Welcome</b>
     <br />
-    I'm Khalid Saifullaha, a  
+    I'm Khalid Saifullaha , a  
     Front-end developer.
     <br />
     <img
