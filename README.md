@@ -15,7 +15,7 @@
 ###
 
 <p align="center">
-  <samp style="font-size: 22px;"> 
+  <samp style="font-size: 20px;"> 
     <b>Welcome</b>
     <br />
     I'm Khalid Saifullaha , a  
